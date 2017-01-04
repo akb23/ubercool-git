@@ -1,0 +1,3 @@
+this is my first squad
+this is my second repostory
+this is my new Git bash!
